@@ -37,8 +37,6 @@
     "typescript": "^3.9.3"
   },
   "peerDependencies": {
-    "react": "^16.9.0",
-    "react-native": "^0.62.0"
   },
   "typings": "dist/index.d.ts",
   "files": [
